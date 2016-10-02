@@ -1,0 +1,1 @@
+Small school project that aims to learn Zeroc's ICE middleware
