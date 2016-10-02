@@ -1,0 +1,30 @@
+{
+  "name": "ice_ticket_server",
+  "version": "1.0.0",
+  "description": "Small school project that aims to learn Zeroc's ICE middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nokorbis/ice_tickets.git"
+  },
+  "keywords": [
+    "ICE",
+    "Tickets"
+  ],
+  "author": "David, Dylan, Jérôme, Melvin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Nokorbis/ice_tickets/issues"
+  },
+  "homepage": "https://github.com/Nokorbis/ice_tickets#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-ice-builder": "^1.0.3"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
