@@ -22,7 +22,9 @@
   "homepage": "https://github.com/Nokorbis/ice_tickets#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-ice-builder": "^1.0.3"
+    "gulp-ice-builder": "^1.0.3",
+    "gulp-todo": "^5.0.0",
+    "gulp-uglify": "^2.0.0"
   },
   "dependencies": {
     "express": "^4.14.0"
