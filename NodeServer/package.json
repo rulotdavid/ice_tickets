@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "express": "^4.14.0",
-    "ice": "^3.6.2"
+    "ice": "^3.6.2",
+    "slice2js": "^3.6.2"
   }
 }
